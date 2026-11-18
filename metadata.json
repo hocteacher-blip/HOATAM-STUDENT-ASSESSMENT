@@ -1,0 +1,6 @@
+{
+  "name": "HOATAM Student Assessment",
+  "description": "Hệ thống quản lý và đánh giá học sinh tiểu học, hỗ trợ đánh giá thường xuyên, định kỳ, báo cáo thống kê và hoạt động ngoại tuyến.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
